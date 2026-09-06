@@ -1,5 +1,5 @@
 # Streamlit_Dashboard
-(Home Credit Risk)
+(Home Credit Risk Analytics)
 
 Home Credit Analytics Dashboard
 
